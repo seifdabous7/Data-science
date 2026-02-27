@@ -1,0 +1,482 @@
+Gender,Platform,Daily_Screen_Time,Sleep_Score,Anxiety_Level,Depression_Score,Focus_Level
+Male,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit",Between 2 and 3 hours,5,2,5,5
+Female,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit",More than 5 hours,5,5,5,4
+Female,"Facebook, Instagram, YouTube, Pinterest",Between 3 and 4 hours,5,5,4,4
+Female,"Facebook, Instagram",More than 5 hours,2,5,4,3
+Female,"Facebook, Instagram, YouTube",Between 2 and 3 hours,1,5,4,5
+Female,"Facebook, Twitter, Instagram, YouTube, Discord, Pinterest, TikTok",Between 2 and 3 hours,4,4,3,3
+Female,"Facebook, Instagram, YouTube, Snapchat, TikTok",Between 3 and 4 hours,3,4,5,3
+Female,"Facebook, Instagram, YouTube",More than 5 hours,1,3,5,1
+Female,"Facebook, Instagram, YouTube",More than 5 hours,1,1,5,1
+Male,"Reddit, Pinterest",Less than an Hour,1,1,1,1
+Male,"Facebook, Instagram, YouTube, Discord",Between 2 and 3 hours,5,3,5,5
+Female,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 3 and 4 hours,2,3,3,4
+Female,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",Between 3 and 4 hours,5,4,3,2
+Female,"Facebook, Twitter, Instagram, YouTube, Snapchat, Reddit, Pinterest",Between 3 and 4 hours,3,4,3,4
+Male,"Facebook, YouTube, Pinterest",More than 5 hours,5,5,5,5
+Male,"Facebook, Instagram, YouTube, Reddit",Between 1 and 2 hours,2,4,3,4
+Male,"Facebook, YouTube, Discord",Less than an Hour,3,4,4,2
+Male,"Facebook, Instagram, YouTube, Reddit",Between 4 and 5 hours,2,3,2,3
+Male,"Facebook, YouTube, Discord, Reddit",Between 1 and 2 hours,1,5,3,5
+Male,"Facebook, Twitter, Instagram, YouTube",Between 1 and 2 hours,2,4,2,1
+Male,"Facebook, Instagram, YouTube, Discord, Reddit",Between 2 and 3 hours,2,3,2,2
+Male,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit, TikTok",More than 5 hours,1,4,3,2
+Female,"Facebook, Instagram, YouTube, Pinterest",Between 3 and 4 hours,4,4,4,4
+Female,"Facebook, Instagram, YouTube, Snapchat, Pinterest",Between 1 and 2 hours,1,4,4,3
+Male,"Facebook, Twitter, YouTube, Discord",Between 3 and 4 hours,5,5,3,5
+Female,"Facebook, YouTube",Between 3 and 4 hours,2,3,4,3
+Male,"Facebook, Instagram, YouTube, Discord",Between 3 and 4 hours,4,3,4,4
+Male,"Facebook, Twitter, Instagram, YouTube",Between 2 and 3 hours,5,4,4,4
+Female,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",Between 4 and 5 hours,1,5,4,4
+Female,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 3 and 4 hours,1,5,5,4
+Female,"Facebook, Instagram, YouTube, Discord",Between 3 and 4 hours,3,5,5,4
+Male,"Facebook, YouTube, Pinterest",Between 2 and 3 hours,2,3,3,2
+Male,"Facebook, Instagram, YouTube, TikTok",Between 2 and 3 hours,3,3,2,4
+Female,"Facebook, Instagram, YouTube, Discord, Pinterest",Between 2 and 3 hours,2,4,3,3
+Female,"Facebook, Instagram, YouTube, Discord",Between 3 and 4 hours,4,5,5,5
+Nonbinary ,"Facebook, Twitter, Instagram, YouTube, Discord",More than 5 hours,1,4,4,5
+Male,"Facebook, Instagram",Between 3 and 4 hours,1,2,3,3
+Male,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",Less than an Hour,5,1,5,3
+Female,"Facebook, Instagram, YouTube, Snapchat, Pinterest",Between 3 and 4 hours,5,4,2,4
+Male,"Facebook, YouTube, Discord",Between 2 and 3 hours,4,3,1,5
+Female,"Facebook, Instagram, YouTube, Snapchat",Between 1 and 2 hours,1,1,3,1
+Female,"Facebook, Instagram, YouTube, Snapchat",Between 3 and 4 hours,2,3,4,3
+Female,YouTube,Between 1 and 2 hours,1,3,2,1
+Female,"Facebook, Instagram, YouTube, Snapchat, Pinterest",More than 5 hours,2,5,5,4
+Male,"Twitter, Discord, Reddit",More than 5 hours,3,3,3,3
+Female,"Facebook, Instagram, YouTube",More than 5 hours,3,5,3,2
+Male,"Facebook, YouTube",Between 3 and 4 hours,2,2,1,1
+Female,"Instagram, YouTube, Reddit, Pinterest",Between 3 and 4 hours,1,5,3,3
+Male,"Twitter, YouTube, Reddit",Between 2 and 3 hours,1,2,2,3
+Female,"Facebook, YouTube",Between 3 and 4 hours,1,2,1,1
+Female,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 3 and 4 hours,4,3,3,2
+Male,"YouTube, Snapchat, Discord",More than 5 hours,1,4,3,5
+Male,Facebook,Less than an Hour,5,5,5,5
+Male,"Discord, Reddit",Between 1 and 2 hours,1,2,1,1
+Male,"YouTube, Discord, Reddit",Between 1 and 2 hours,2,2,1,1
+Male,"Facebook, Twitter, Instagram, YouTube, Snapchat, Reddit, TikTok",More than 5 hours,3,4,5,5
+Male,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit",More than 5 hours,2,4,3,2
+Female,"Facebook, Instagram, YouTube, Discord, Pinterest",Between 2 and 3 hours,5,4,4,3
+Female,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 2 and 3 hours,2,4,5,4
+Female,"Instagram, Reddit",Between 1 and 2 hours,5,2,1,2
+Female,"Facebook, Twitter, Instagram, YouTube, Discord",More than 5 hours,4,4,4,4
+Female,"YouTube, Reddit",Between 1 and 2 hours,4,5,4,4
+Female,"Facebook, Instagram, YouTube, Pinterest",More than 5 hours,5,4,5,3
+Male,Reddit,Between 1 and 2 hours,5,2,5,4
+Female,"Discord, Reddit",Between 2 and 3 hours,4,3,1,5
+Male,"YouTube, Discord, Reddit",Between 1 and 2 hours,4,2,2,2
+Male,"Facebook, Instagram, Reddit, TikTok",Between 3 and 4 hours,1,5,4,5
+Non-binary,"Twitter, Instagram, YouTube, Reddit, TikTok",Between 2 and 3 hours,4,5,4,3
+Male,Reddit,Between 1 and 2 hours,4,5,4,3
+Male,"YouTube, Snapchat, Discord, Reddit",Between 3 and 4 hours,4,3,3,2
+Male,"Instagram, YouTube",Between 3 and 4 hours,2,2,1,2
+Male,"Instagram, YouTube, Discord, Reddit",Between 2 and 3 hours,5,5,5,5
+Female,"Twitter, Instagram, YouTube, Snapchat, Reddit, Pinterest, TikTok",More than 5 hours,5,4,4,2
+Male,"Twitter, YouTube, Discord, Reddit",Between 1 and 2 hours,2,2,2,1
+Female,"Facebook, YouTube, Discord, Reddit",Between 4 and 5 hours,4,4,5,5
+Male,Reddit,Less than an Hour,4,2,2,1
+Male,"Facebook, YouTube, Reddit",Between 2 and 3 hours,2,3,5,2
+Female,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, TikTok",Between 3 and 4 hours,2,5,4,4
+Female,"Facebook, YouTube, Reddit",Between 3 and 4 hours,5,5,5,5
+Male,"Facebook, YouTube, Discord, Reddit",Between 3 and 4 hours,5,5,5,5
+Male,"Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",Between 2 and 3 hours,5,5,4,5
+Male,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",More than 5 hours,4,4,1,4
+Male,"Instagram, YouTube, Snapchat, Discord, Reddit",More than 5 hours,2,4,4,5
+Female,"Facebook, Instagram, YouTube, Pinterest",Between 4 and 5 hours,5,3,4,5
+Male,"Facebook, Twitter, Instagram, YouTube, Reddit",Between 2 and 3 hours,2,5,2,4
+NB,"YouTube, Reddit",Between 2 and 3 hours,1,5,4,2
+Female,"Facebook, YouTube",Between 1 and 2 hours,4,1,2,3
+Female,Reddit,Between 1 and 2 hours,1,2,1,5
+Male,"Facebook, YouTube",Between 2 and 3 hours,2,1,3,3
+Female,"Facebook, Instagram, YouTube, Snapchat, Pinterest",Between 2 and 3 hours,4,5,5,5
+Male,"Facebook, Instagram, YouTube, Snapchat",Between 2 and 3 hours,3,4,4,4
+Female,"Facebook, YouTube",Between 3 and 4 hours,2,5,4,5
+Female,"Facebook, Twitter, Instagram, YouTube, Snapchat",More than 5 hours,1,5,4,4
+unsure ,"Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, TikTok",Between 4 and 5 hours,5,2,3,4
+Female,Instagram,Between 4 and 5 hours,4,4,4,4
+Male,"Facebook, Instagram, YouTube, Snapchat, Discord",More than 5 hours,5,2,3,5
+Male,"Instagram, YouTube, Discord",Between 4 and 5 hours,5,2,1,3
+Male,"YouTube, Reddit",More than 5 hours,2,1,4,1
+Female,"Facebook, Instagram, YouTube, Pinterest",More than 5 hours,3,4,5,5
+Male,"Facebook, Instagram, YouTube, Snapchat, Discord, TikTok",Between 4 and 5 hours,3,3,2,4
+Female,"Facebook, Twitter, Instagram, YouTube",Between 2 and 3 hours,3,4,3,3
+Male,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",Between 1 and 2 hours,5,4,5,2
+Male,Instagram,Between 3 and 4 hours,3,4,4,3
+Male,"Facebook, Twitter, Instagram, YouTube, Snapchat, Pinterest",Between 1 and 2 hours,5,5,3,5
+Female,"Facebook, Instagram, YouTube, Snapchat, Pinterest",Between 4 and 5 hours,3,3,1,3
+Female,"Facebook, YouTube",Between 4 and 5 hours,5,3,2,3
+Female,"Facebook, Instagram, TikTok",Between 2 and 3 hours,5,2,3,2
+Female,"Facebook, YouTube",Between 1 and 2 hours,1,3,1,2
+Female,"Facebook, Instagram, YouTube, Snapchat",Between 3 and 4 hours,5,2,2,3
+Female,"Facebook, Instagram, YouTube, Pinterest",Between 2 and 3 hours,3,2,3,2
+Male,"Facebook, Instagram, YouTube",Between 2 and 3 hours,3,4,2,4
+Female,"Facebook, Instagram, YouTube, Pinterest",More than 5 hours,3,5,4,3
+Male,"Facebook, YouTube",Between 2 and 3 hours,4,3,2,3
+Male,"Facebook, Instagram, Snapchat",Between 1 and 2 hours,4,3,2,3
+Female,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,1,3,4,2
+Female,Facebook,More than 5 hours,4,3,2,1
+Female,"Facebook, Instagram",Between 2 and 3 hours,5,5,3,5
+Female,Facebook,More than 5 hours,4,5,3,4
+Female,"Facebook, Instagram, YouTube, Snapchat, Discord, TikTok",More than 5 hours,5,5,5,4
+Male,"Facebook, Instagram, YouTube",Between 4 and 5 hours,5,3,4,5
+Female,"Facebook, Instagram",Less than an Hour,1,2,1,1
+Female,"Facebook, Instagram, YouTube, TikTok",Between 3 and 4 hours,3,4,3,2
+Female,"Facebook, YouTube, Snapchat, Pinterest",Between 4 and 5 hours,3,2,5,5
+Female,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,2,5,4,5
+Female,Instagram,More than 5 hours,1,2,1,3
+Female,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,3,4,4,3
+Male,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord",Between 2 and 3 hours,4,4,4,4
+Female,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",More than 5 hours,5,5,4,3
+Female,"Facebook, Instagram, YouTube",Between 3 and 4 hours,3,1,4,1
+Male,"Instagram, YouTube, Snapchat, Pinterest",Between 2 and 3 hours,2,3,3,2
+Female,"Facebook, Instagram, YouTube, Discord, Pinterest",Between 2 and 3 hours,4,3,1,2
+Male,"Facebook, YouTube",Between 1 and 2 hours,2,2,3,1
+Male,"Facebook, Twitter, Instagram, YouTube",Between 2 and 3 hours,4,4,3,3
+Female,Facebook,Less than an Hour,1,2,2,1
+Male,"Instagram, YouTube",Between 1 and 2 hours,1,2,2,2
+Male,"Facebook, Twitter, Instagram, YouTube, Pinterest",Between 4 and 5 hours,5,4,4,3
+Female,"Facebook, YouTube, Pinterest",Between 2 and 3 hours,4,3,1,2
+Female,"Facebook, Twitter, Instagram, YouTube, Pinterest",Between 2 and 3 hours,1,1,1,1
+Male,"Facebook, Twitter, Instagram, YouTube, Snapchat, Pinterest",Between 1 and 2 hours,3,3,3,4
+Male,"Facebook, Twitter, Instagram, YouTube",Between 3 and 4 hours,2,5,4,4
+Female,"Facebook, Twitter, Instagram, YouTube, Pinterest",Between 3 and 4 hours,1,2,1,2
+Female,"Facebook, Instagram, YouTube",Between 4 and 5 hours,4,5,3,5
+Female,"Facebook, Twitter, Instagram, YouTube",Between 1 and 2 hours,1,4,4,3
+Male,"Facebook, Twitter, Instagram, YouTube, Snapchat",Less than an Hour,2,2,2,1
+Female,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 4 and 5 hours,5,3,5,2
+Female,Facebook,Between 1 and 2 hours,3,2,3,2
+Female,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest",More than 5 hours,4,4,4,4
+Female,"Facebook, Twitter, Instagram, YouTube",Between 1 and 2 hours,2,5,2,4
+Male,"Facebook, Instagram, YouTube",Between 3 and 4 hours,2,2,2,2
+Male,"Facebook, YouTube",Between 4 and 5 hours,4,2,2,2
+Male,"Facebook, YouTube, Discord",Between 3 and 4 hours,2,2,2,2
+Female,"Facebook, Instagram, YouTube, Discord, Pinterest",Between 4 and 5 hours,5,2,1,1
+Female,"Twitter, Instagram, YouTube",Between 2 and 3 hours,3,2,2,2
+Male,"Facebook, Twitter, YouTube",Between 1 and 2 hours,2,2,3,2
+Male,"Facebook, Twitter, Instagram, YouTube",Less than an Hour,5,4,4,2
+Female,"Facebook, Instagram, YouTube, Pinterest",Between 3 and 4 hours,4,4,3,5
+Male,Twitter,Less than an Hour,4,3,2,4
+Female,YouTube,Between 2 and 3 hours,4,4,1,4
+Female,"Facebook, Instagram, YouTube",Between 1 and 2 hours,4,1,4,3
+Female,Facebook,Between 4 and 5 hours,5,5,4,4
+Male,"Facebook, Instagram, YouTube",Between 1 and 2 hours,5,2,2,1
+Male,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Less than an Hour,2,1,1,1
+Female,"Facebook, Instagram, YouTube, Pinterest, TikTok",More than 5 hours,4,4,3,5
+Male,"Twitter, YouTube",Between 3 and 4 hours,4,4,3,3
+Male,"Twitter, Instagram, YouTube, Reddit, TikTok",Between 2 and 3 hours,4,5,3,5
+Female,"Facebook, Twitter",Less than an Hour,2,2,2,2
+Male,"Facebook, YouTube, Pinterest",Less than an Hour,4,2,2,1
+Male,"Facebook, Twitter, Instagram, YouTube, Pinterest",Between 2 and 3 hours,4,2,2,1
+Male,"Twitter, YouTube",Between 1 and 2 hours,2,1,1,1
+Male,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord",Less than an Hour,1,3,2,3
+Male,"Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, TikTok",More than 5 hours,4,2,3,4
+Female,"Facebook, YouTube",Between 3 and 4 hours,4,5,3,5
+Male,"Facebook, Instagram, YouTube",Between 1 and 2 hours,5,4,5,5
+Female,"Facebook, Instagram, YouTube, Snapchat",Between 1 and 2 hours,1,4,3,2
+Female,"Instagram, YouTube, Pinterest",Between 4 and 5 hours,5,4,4,4
+Male,"Twitter, Instagram, YouTube, Reddit, TikTok",Between 2 and 3 hours,1,4,1,3
+Female,"Facebook, YouTube",Less than an Hour,1,1,1,1
+Female,Pinterest,Between 3 and 4 hours,5,3,4,5
+Female,"Facebook, Twitter, Instagram, YouTube, Snapchat, Pinterest",Between 4 and 5 hours,5,5,3,4
+Female,"Facebook, Instagram, YouTube, Pinterest",Between 2 and 3 hours,1,4,4,1
+Female,"Facebook, YouTube",Between 1 and 2 hours,5,5,4,2
+Male,"Facebook, Twitter, Instagram, YouTube",Between 1 and 2 hours,4,2,3,2
+Male,"Facebook, YouTube, TikTok",Less than an Hour,3,4,1,2
+Female,"Facebook, Twitter, Instagram, YouTube, Reddit, Pinterest, TikTok",Between 4 and 5 hours,2,5,5,4
+Female,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",More than 5 hours,4,4,3,3
+Male,"Facebook, YouTube",Between 2 and 3 hours,2,3,2,3
+Male,"Instagram, YouTube",Between 1 and 2 hours,1,3,3,2
+Female,"Facebook, Twitter, Instagram, YouTube, Pinterest",Between 4 and 5 hours,1,3,3,1
+Female,"Facebook, Instagram, Pinterest",More than 5 hours,4,4,4,5
+Female,Instagram,Between 2 and 3 hours,5,1,2,5
+Female,"Facebook, YouTube, Discord, Reddit, Pinterest",Between 2 and 3 hours,1,2,4,2
+Female,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",Between 2 and 3 hours,1,3,4,3
+Female,"Facebook, Instagram, YouTube, Snapchat",Between 4 and 5 hours,4,2,4,4
+Female,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,4,5,5,3
+Male,"Facebook, Instagram, YouTube, Snapchat, Discord, TikTok",Between 3 and 4 hours,5,5,4,4
+Female,"Facebook, Instagram, YouTube, Discord, Pinterest",Between 2 and 3 hours,1,1,1,1
+Female,Facebook,Between 2 and 3 hours,2,1,3,3
+Male,"Facebook, Twitter, YouTube, Discord, Reddit",Between 4 and 5 hours,2,3,2,2
+Male,"Facebook, Instagram, YouTube",Less than an Hour,2,2,1,1
+Male,"Facebook, YouTube, Discord, Reddit",Between 1 and 2 hours,1,2,1,1
+Female,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord",Between 1 and 2 hours,2,4,2,5
+Male,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit",Between 3 and 4 hours,5,4,3,3
+Female,"Facebook, Instagram, YouTube",More than 5 hours,4,3,3,3
+Male,"Facebook, Instagram, YouTube, Discord, Reddit, TikTok",Between 3 and 4 hours,3,5,3,5
+Male,"Facebook, Discord, Reddit",More than 5 hours,5,5,5,5
+Male,"Instagram, Discord, Reddit, Pinterest, TikTok",Between 2 and 3 hours,4,3,2,2
+Female,"Facebook, Instagram, YouTube",Between 3 and 4 hours,2,4,1,3
+Male,"Facebook, Instagram, YouTube, Discord",Between 3 and 4 hours,4,1,5,5
+Female,"Facebook, Instagram, YouTube, Snapchat, Pinterest",Between 2 and 3 hours,1,1,1,1
+Female,"Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 3 and 4 hours,4,5,4,3
+Male,"Facebook, Instagram, YouTube, Discord",Between 2 and 3 hours,2,4,3,3
+Male,"YouTube, Discord, Reddit",More than 5 hours,1,1,1,1
+Male,"Facebook, YouTube, TikTok",More than 5 hours,5,3,5,4
+Male,"Facebook, YouTube, Snapchat",Less than an Hour,1,1,1,1
+Female,Instagram,More than 5 hours,1,5,4,3
+Male,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit",Between 4 and 5 hours,1,3,3,1
+Male,"Facebook, YouTube",Less than an Hour,1,1,1,1
+Male,"Facebook, YouTube",Between 1 and 2 hours,2,4,2,4
+Male,"Facebook, Instagram, YouTube, Snapchat",Between 1 and 2 hours,4,4,5,4
+Male,Facebook,Between 1 and 2 hours,3,3,2,5
+Female,"Facebook, Twitter, Instagram, YouTube, Snapchat",More than 5 hours,4,5,3,5
+Female,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest",Between 2 and 3 hours,1,2,2,2
+Female,"Facebook, YouTube",Between 1 and 2 hours,3,4,3,3
+Female,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest",Between 3 and 4 hours,3,3,3,2
+Female,Facebook,More than 5 hours,3,3,4,4
+Female,"Facebook, Instagram, YouTube, Snapchat, TikTok",More than 5 hours,3,3,2,4
+Female,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest",Between 3 and 4 hours,3,5,4,4
+Female,"Facebook, Instagram, YouTube",Between 2 and 3 hours,5,3,2,5
+Male,"Facebook, YouTube",Less than an Hour,4,1,1,1
+Male,"Facebook, Instagram, YouTube",More than 5 hours,5,4,4,4
+Female,"Facebook, Instagram, YouTube, Discord",More than 5 hours,1,4,4,3
+Female,"Facebook, Instagram, YouTube",Less than an Hour,1,2,1,2
+Male,YouTube,Between 1 and 2 hours,5,2,5,3
+Female,"Facebook, YouTube, Discord, Pinterest",Between 3 and 4 hours,1,2,1,1
+Male,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit, TikTok",More than 5 hours,3,4,4,4
+Female,"Instagram, YouTube, Discord, Reddit, TikTok",More than 5 hours,1,4,4,3
+Male,"Facebook, Instagram, YouTube, Pinterest",Less than an Hour,1,3,2,1
+Female,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",Between 2 and 3 hours,5,5,5,2
+Trans,TikTok,More than 5 hours,5,5,5,5
+Female,"Facebook, Instagram, YouTube",Between 4 and 5 hours,5,5,4,1
+Female,"Facebook, Twitter, Instagram, YouTube, Snapchat, TikTok",Between 4 and 5 hours,2,4,4,3
+Male,"Facebook, Instagram, YouTube, Snapchat, Discord, TikTok",Between 3 and 4 hours,4,5,2,5
+Male,"Facebook, Instagram",Less than an Hour,5,4,3,3
+Female,"Facebook, Instagram, YouTube, Discord",Between 3 and 4 hours,5,5,3,5
+Female,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit",Between 1 and 2 hours,3,2,3,2
+Female,"Facebook, Instagram, YouTube, Snapchat",Between 4 and 5 hours,2,4,4,4
+Female,"Facebook, YouTube, Discord",More than 5 hours,1,4,4,3
+Female,"Facebook, Instagram, YouTube, Snapchat",Between 2 and 3 hours,3,4,2,1
+Female,Facebook,Between 1 and 2 hours,1,1,1,5
+Female,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest",More than 5 hours,4,5,4,3
+Female,Facebook,Between 1 and 2 hours,1,1,1,1
+Female,"Facebook, Instagram, YouTube, Discord, Pinterest, TikTok",Between 4 and 5 hours,4,5,5,5
+Male,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",Between 4 and 5 hours,5,1,5,5
+Female,"Facebook, Instagram, YouTube, Pinterest",Between 2 and 3 hours,3,3,2,2
+Male,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",Less than an Hour,2,5,2,2
+Female,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,5,5,3,5
+Female,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 2 and 3 hours,5,5,5,5
+Female,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 4 and 5 hours,3,1,1,1
+Female,"Facebook, Instagram, YouTube, TikTok",More than 5 hours,2,3,4,4
+Female,"Facebook, Instagram, Discord",Between 2 and 3 hours,4,3,3,4
+Female,"Facebook, YouTube, Snapchat",Between 1 and 2 hours,3,2,2,1
+Female,"Facebook, Instagram, YouTube, Snapchat, Discord, TikTok",Between 2 and 3 hours,4,5,5,4
+Female,"Facebook, Instagram, YouTube",Between 1 and 2 hours,2,2,3,3
+Male,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit, Pinterest, TikTok",More than 5 hours,3,2,3,4
+Female,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,2,4,2,4
+Female,"Facebook, Instagram, YouTube, Discord",Between 3 and 4 hours,2,4,3,3
+Female,"Facebook, Twitter, Instagram, YouTube",More than 5 hours,4,3,2,2
+Male,YouTube,Between 2 and 3 hours,4,5,4,4
+Female,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",More than 5 hours,5,5,3,5
+Female,"Facebook, Twitter, YouTube, Discord, Pinterest",More than 5 hours,2,3,3,1
+Female,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",More than 5 hours,5,2,2,3
+Female,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",More than 5 hours,5,5,5,5
+Female,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 3 and 4 hours,4,4,3,3
+Male,"YouTube, Discord, Reddit",Between 1 and 2 hours,5,5,5,5
+Male,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit",Between 2 and 3 hours,3,5,3,4
+Female,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",Between 3 and 4 hours,5,5,5,4
+Male,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 4 and 5 hours,5,5,5,5
+Male,"Facebook, Instagram, YouTube, Discord",More than 5 hours,5,5,5,5
+Female,"Facebook, Instagram, YouTube, Discord",Between 2 and 3 hours,2,5,5,3
+Male,Discord,Between 2 and 3 hours,4,3,5,3
+Male,"Facebook, Instagram, YouTube, Discord, Pinterest, TikTok",More than 5 hours,5,5,3,4
+Male,"Facebook, Instagram, YouTube, Discord, Reddit, Pinterest",Between 3 and 4 hours,3,5,4,4
+Female,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,2,1,2,1
+Male,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, TikTok",More than 5 hours,5,5,5,3
+Female,"Facebook, Twitter, Instagram, YouTube",Between 4 and 5 hours,4,4,4,4
+Female,"Facebook, Instagram, YouTube, Snapchat",Between 3 and 4 hours,4,4,3,5
+Male,"Facebook, Twitter, Instagram, YouTube, Discord",Between 3 and 4 hours,2,2,2,3
+Female,"Facebook, Instagram, YouTube, Snapchat, Pinterest",More than 5 hours,4,5,5,4
+Male,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest",Between 4 and 5 hours,2,4,4,2
+Female,"Facebook, Instagram, YouTube, Discord, Pinterest",Between 3 and 4 hours,4,4,3,2
+Female,"Facebook, YouTube",Between 2 and 3 hours,4,2,3,3
+Female,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 3 and 4 hours,3,4,4,3
+Female,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 4 and 5 hours,4,4,4,5
+Female,"Facebook, Instagram, YouTube, Snapchat, TikTok",Between 2 and 3 hours,5,4,5,4
+Female,"Facebook, Instagram, YouTube",Between 1 and 2 hours,1,1,1,1
+Female,"Facebook, Twitter, Instagram, YouTube, Snapchat, Pinterest",Between 2 and 3 hours,1,4,2,4
+Male,"Facebook, Discord",Between 4 and 5 hours,2,5,4,2
+Female,"Facebook, Twitter, Instagram, YouTube",Between 2 and 3 hours,5,5,4,4
+Male,"Facebook, Twitter, Instagram, YouTube, Reddit",Between 1 and 2 hours,2,4,3,4
+Female,Facebook,Between 2 and 3 hours,3,3,5,3
+Male,"Facebook, Instagram, YouTube, Snapchat, Pinterest",Between 2 and 3 hours,4,5,5,3
+Male,"Facebook, Instagram, YouTube, Snapchat",Between 2 and 3 hours,5,5,5,4
+Male,"Instagram, YouTube, Snapchat, Discord, Reddit",Between 2 and 3 hours,2,2,4,5
+Female,"Facebook, TikTok",Between 2 and 3 hours,5,3,4,5
+Female,"Facebook, Instagram, YouTube",Between 3 and 4 hours,2,4,3,3
+Male,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, TikTok",Between 4 and 5 hours,2,5,3,4
+Female,"Facebook, Instagram, YouTube",Between 4 and 5 hours,3,4,5,3
+Female,"Facebook, YouTube",Between 3 and 4 hours,1,2,1,2
+Female,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest",More than 5 hours,4,4,2,2
+Female,"Twitter, Instagram, YouTube",Between 3 and 4 hours,1,4,2,2
+Female,"Instagram, YouTube, Discord, Pinterest",Between 3 and 4 hours,5,5,5,3
+Male,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",More than 5 hours,5,5,3,5
+Female,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",More than 5 hours,2,3,2,5
+Male,"Facebook, Instagram",Between 1 and 2 hours,5,5,5,4
+Female,"Facebook, Twitter, Instagram, YouTube, Snapchat, TikTok",More than 5 hours,4,4,4,4
+Female,Facebook,More than 5 hours,4,4,3,5
+Male,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",Between 3 and 4 hours,3,4,3,1
+Female,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,4,3,5,5
+Female,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",More than 5 hours,5,5,5,5
+Female,"Facebook, YouTube, Snapchat, Discord",More than 5 hours,5,5,5,5
+Female,"Facebook, Twitter, Instagram, YouTube, Snapchat, TikTok",More than 5 hours,5,5,5,4
+Female,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest",More than 5 hours,4,4,4,4
+Male,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit, Pinterest",More than 5 hours,5,4,3,3
+Male,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord",Less than an Hour,5,4,2,2
+Male,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",More than 5 hours,5,5,5,5
+Non binary ,"Facebook, Instagram, YouTube, Snapchat, Reddit, Pinterest, TikTok",More than 5 hours,1,5,5,4
+Female,"Facebook, Instagram, YouTube, Snapchat, Discord, TikTok",Between 3 and 4 hours,5,5,5,4
+Male,"Facebook, Instagram, YouTube, Discord, Pinterest",Between 2 and 3 hours,4,5,5,5
+Female,"Facebook, Instagram, Snapchat, Pinterest, TikTok",Between 2 and 3 hours,2,2,4,2
+Male,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 2 and 3 hours,4,4,4,5
+Male,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 3 and 4 hours,4,3,1,1
+Male,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",Between 2 and 3 hours,2,3,4,3
+Male,"Facebook, Twitter, Instagram, YouTube, Reddit, Pinterest",Between 2 and 3 hours,3,1,3,1
+Female,"Facebook, Instagram, YouTube, Pinterest, TikTok",More than 5 hours,4,5,5,1
+Female,"Facebook, Instagram, YouTube, Discord",Between 4 and 5 hours,3,3,3,3
+Female,"Facebook, Twitter, Instagram, YouTube, Snapchat",More than 5 hours,2,5,4,4
+Male,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",Between 3 and 4 hours,2,3,1,1
+Female,"Facebook, Instagram, YouTube",Between 3 and 4 hours,5,4,4,5
+Male,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit",Between 2 and 3 hours,3,4,3,3
+Male,"Facebook, Twitter, Instagram, Snapchat, Reddit",Between 1 and 2 hours,2,5,5,3
+Male,"YouTube, Discord",More than 5 hours,1,4,3,5
+Male,"Facebook, Instagram, YouTube",Between 4 and 5 hours,3,5,3,5
+Female,"Facebook, Instagram",Between 3 and 4 hours,5,5,5,3
+Male,"Facebook, Instagram, YouTube, Snapchat, Discord, TikTok",Between 1 and 2 hours,5,5,2,2
+Female,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",More than 5 hours,5,5,5,4
+Female,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 2 and 3 hours,2,4,5,4
+Male,"Facebook, YouTube",Less than an Hour,1,1,1,1
+Female,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 4 and 5 hours,1,4,4,4
+Male,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",Between 4 and 5 hours,1,5,3,5
+Female,"Facebook, YouTube",More than 5 hours,4,5,5,4
+Female,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 3 and 4 hours,5,4,4,4
+Female,"Facebook, YouTube",Between 1 and 2 hours,4,3,3,2
+Male,"Facebook, Instagram, YouTube, Discord, Reddit",Between 4 and 5 hours,5,4,3,5
+Female,"Facebook, Twitter, Instagram, YouTube, Reddit, Pinterest",Between 1 and 2 hours,4,5,5,4
+Male,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, TikTok",Between 4 and 5 hours,2,3,2,2
+Male,"Facebook, Instagram, YouTube, Discord",Less than an Hour,5,4,3,4
+Female,"Twitter, Discord, Reddit",Between 2 and 3 hours,2,5,4,4
+Male,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest",Between 1 and 2 hours,3,2,3,2
+Female,"Twitter, Instagram, TikTok",More than 5 hours,1,4,3,4
+Male,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 2 and 3 hours,5,5,4,3
+Male,"Facebook, Instagram, YouTube, TikTok",Between 4 and 5 hours,2,3,3,3
+Female,"Facebook, Instagram, YouTube, Pinterest",Between 1 and 2 hours,4,3,2,3
+Female,"Facebook, Twitter, Instagram, YouTube, Snapchat, Pinterest",Between 4 and 5 hours,5,3,4,3
+Male,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 4 and 5 hours,2,1,2,1
+Female,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 2 and 3 hours,2,1,1,3
+Female,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 4 and 5 hours,5,5,5,5
+Female,"Facebook, Instagram, YouTube",Between 2 and 3 hours,4,3,4,5
+Male,"Facebook, Instagram, YouTube, Snapchat, Discord",More than 5 hours,5,5,5,5
+There are others???,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,1,1,1,3
+Female,"Facebook, Instagram, Snapchat, Discord, Pinterest, TikTok",Between 3 and 4 hours,4,4,5,4
+Male,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",More than 5 hours,5,4,2,2
+Female,"Facebook, Instagram, YouTube, Snapchat",Between 1 and 2 hours,5,5,4,5
+Female,"YouTube, Pinterest",Less than an Hour,3,2,3,1
+Female,"Facebook, Twitter, Instagram, YouTube, Reddit, Pinterest",Between 3 and 4 hours,5,4,3,4
+Female,"Facebook, Twitter, Instagram, YouTube, Snapchat",Between 2 and 3 hours,1,4,2,2
+Female,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",Between 4 and 5 hours,4,5,5,3
+Male,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 4 and 5 hours,4,4,5,3
+Female,"Facebook, Instagram, YouTube",Between 2 and 3 hours,4,5,4,5
+Male,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",Between 3 and 4 hours,2,5,5,4
+Female,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,2,2,1,2
+Female,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",More than 5 hours,5,4,5,5
+Male,"Instagram, YouTube, Discord, Reddit, Pinterest",Between 3 and 4 hours,1,5,5,5
+Female,"Facebook, YouTube",More than 5 hours,5,5,4,3
+Male,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 1 and 2 hours,3,3,5,2
+Male,"Facebook, Instagram, YouTube, Snapchat",Between 3 and 4 hours,3,4,3,4
+Male,"Facebook, YouTube, Discord",Between 2 and 3 hours,4,3,2,4
+Male,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",Between 4 and 5 hours,4,5,3,3
+Male,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",Between 4 and 5 hours,4,4,2,4
+Female,"Twitter, Instagram, YouTube, TikTok",Between 2 and 3 hours,2,4,4,4
+Female,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 4 and 5 hours,5,5,4,5
+Male,"Facebook, Instagram, YouTube, Snapchat, Discord",More than 5 hours,4,2,3,3
+Male,"Facebook, Twitter, Instagram, YouTube, Discord, Pinterest",More than 5 hours,3,5,5,5
+Male,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",More than 5 hours,5,5,5,5
+Female,"Facebook, Instagram, YouTube, Snapchat, Discord",More than 5 hours,1,5,5,5
+Female,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",More than 5 hours,2,3,2,2
+Female,"Facebook, Instagram, YouTube, Pinterest",Between 1 and 2 hours,1,3,2,1
+Female,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,3,4,5,4
+Female,Facebook,More than 5 hours,5,4,5,5
+Female,"Facebook, Twitter, Instagram, YouTube, Snapchat, Pinterest",Between 2 and 3 hours,4,2,1,2
+Female,"Facebook, Instagram, YouTube, Snapchat",Between 4 and 5 hours,5,4,5,5
+Male,"Facebook, Twitter, Instagram, YouTube",Between 3 and 4 hours,3,4,4,3
+Male,"Facebook, YouTube",Between 1 and 2 hours,4,3,3,2
+Male,"Facebook, Instagram, YouTube, Reddit, Pinterest, TikTok",More than 5 hours,5,4,3,4
+Male,Facebook,Less than an Hour,1,1,1,1
+Male,Facebook,Less than an Hour,1,1,1,1
+Female,"Facebook, YouTube, Discord, Pinterest",Between 3 and 4 hours,5,5,5,3
+Male,"Facebook, Snapchat, Reddit",Between 3 and 4 hours,5,5,5,5
+Female,"Facebook, Instagram, Snapchat",More than 5 hours,3,3,4,5
+Female,"Facebook, Instagram, TikTok",Between 4 and 5 hours,1,5,4,5
+Female,"Facebook, Twitter, Instagram, YouTube, Reddit",More than 5 hours,5,5,4,1
+Female,"Facebook, Instagram, YouTube, Reddit, Pinterest",Between 3 and 4 hours,1,5,3,5
+Male,"Facebook, Instagram, YouTube, Discord, Reddit",More than 5 hours,3,3,3,3
+Female,"Facebook, Instagram, YouTube, Snapchat",Between 3 and 4 hours,5,5,5,5
+Male,"Facebook, Instagram, YouTube, Discord",More than 5 hours,5,5,5,5
+Female,Facebook,Between 4 and 5 hours,4,3,4,4
+Male,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, TikTok",Between 3 and 4 hours,5,5,5,4
+Female,"Facebook, Instagram, YouTube, Discord",Between 3 and 4 hours,2,3,2,2
+Female,"Facebook, Instagram, YouTube, Snapchat, Reddit, Pinterest, TikTok",Between 3 and 4 hours,5,4,3,4
+Male,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 3 and 4 hours,3,5,4,4
+Male,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 1 and 2 hours,1,2,3,5
+Male,"Facebook, Instagram, YouTube, Snapchat, Discord",More than 5 hours,5,5,3,4
+Male,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit, Pinterest",Less than an Hour,4,3,2,3
+Male,"Facebook, Instagram, YouTube, Reddit",Between 2 and 3 hours,4,5,5,4
+Male,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, TikTok",More than 5 hours,5,5,4,4
+Male,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",Between 1 and 2 hours,3,4,1,2
+Female,"Facebook, Instagram, YouTube, Pinterest",Between 2 and 3 hours,1,5,4,4
+Female,"Facebook, Instagram, YouTube, Snapchat",Between 3 and 4 hours,3,3,3,5
+Female,"Facebook, Instagram, YouTube, Pinterest",More than 5 hours,3,5,4,4
+Female,"Facebook, Instagram, YouTube",Between 3 and 4 hours,2,3,3,3
+Female,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, TikTok",Between 3 and 4 hours,4,5,5,5
+Male,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",More than 5 hours,5,4,5,4
+Male,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",More than 5 hours,5,4,5,3
+Female,"Facebook, Instagram, YouTube, Discord",More than 5 hours,5,5,5,5
+Male,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",Between 4 and 5 hours,5,5,5,4
+Female,YouTube,Between 4 and 5 hours,5,4,4,2
+Female,"Facebook, Instagram",Between 2 and 3 hours,5,5,3,3
+Female,"Facebook, Instagram, Snapchat",More than 5 hours,4,5,3,2
+Female,"Facebook, Instagram, YouTube, Reddit, TikTok",Between 4 and 5 hours,2,3,2,3
+Male,"Facebook, Instagram, YouTube",More than 5 hours,5,2,2,3
+Male,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, TikTok",Between 4 and 5 hours,4,4,4,3
+Male,"Facebook, Instagram, YouTube, Discord",Between 3 and 4 hours,4,2,2,4
+Female,YouTube,Between 3 and 4 hours,2,3,1,3
+Male,"Facebook, YouTube, Discord, Reddit",Between 2 and 3 hours,2,3,3,2
+Female,"Facebook, Twitter, Instagram, YouTube, Pinterest",More than 5 hours,3,4,4,4
+Male,"Facebook, Instagram, YouTube",Between 4 and 5 hours,3,4,3,2
+Male,"Facebook, Instagram, YouTube, Discord, Reddit, Pinterest",Between 1 and 2 hours,4,5,3,3
+Female,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",Between 3 and 4 hours,5,5,5,5
+Female,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,3,5,5,5
+Male,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 3 and 4 hours,5,4,4,5
+Female,"Facebook, Twitter, Instagram, YouTube, Pinterest",Between 2 and 3 hours,5,3,2,3
+Female,"Facebook, Instagram, Discord",Between 3 and 4 hours,2,4,2,4
+Female,"Facebook, Instagram, YouTube, Discord, Reddit",Between 4 and 5 hours,5,5,4,4
+Female,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 3 and 4 hours,3,3,3,5
+Male,"Facebook, YouTube",Between 2 and 3 hours,1,1,1,1
+Male,"Facebook, YouTube, Pinterest",Less than an Hour,2,4,3,3
+Female,"Facebook, Instagram, YouTube",Less than an Hour,1,1,1,1
+Male,"Facebook, Twitter, YouTube, Pinterest",Between 2 and 3 hours,2,1,1,1
+Male,"Facebook, Twitter, Instagram, YouTube",Between 1 and 2 hours,4,2,2,3
+Female,Facebook,Between 2 and 3 hours,2,3,4,2
+Female,"Facebook, YouTube, Discord",Between 4 and 5 hours,3,3,2,2
+Male,"Facebook, Instagram",Between 1 and 2 hours,1,1,1,1
+Female,"Twitter, Instagram, YouTube",Between 3 and 4 hours,2,5,3,5
+Female,"Facebook, Instagram, YouTube, Pinterest",Between 2 and 3 hours,2,4,5,5
+Male,"Instagram, YouTube, Discord",Between 4 and 5 hours,4,3,3,1
+Male,"Instagram, Discord",Between 2 and 3 hours,1,3,2,2
+Male,"Twitter, Instagram, YouTube, Discord, Pinterest",More than 5 hours,2,2,2,4
+Male,"Facebook, Instagram, YouTube, Discord",Between 4 and 5 hours,3,4,3,4
+Male,"Discord, Reddit",Between 1 and 2 hours,4,2,1,1
+Male,Pinterest,More than 5 hours,1,5,5,3
+Male,"Instagram, YouTube, Discord, Reddit",Between 4 and 5 hours,1,3,1,3
+Female,"Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 1 and 2 hours,5,5,5,3
+Female,"Facebook, Instagram, YouTube",More than 5 hours,4,5,4,3
+Female,"Facebook, Instagram, YouTube",Between 1 and 2 hours,4,3,2,2
+Female,"Facebook, YouTube, TikTok",Between 2 and 3 hours,4,4,4,4
+Female,"Facebook, Instagram, YouTube",Between 4 and 5 hours,1,4,4,5
+Female,"Facebook, Instagram",Between 3 and 4 hours,4,5,5,5
+Male,"Facebook, Instagram, YouTube",Between 2 and 3 hours,4,3,3,4
+Female,"Facebook, YouTube",Between 1 and 2 hours,1,4,4,4
+Female,"Facebook, YouTube",Between 2 and 3 hours,2,2,2,3
+Male,"Facebook, Twitter, Instagram, YouTube, Discord, Pinterest",Between 2 and 3 hours,4,3,4,2
+Male,"Facebook, YouTube",Less than an Hour,3,1,2,1
